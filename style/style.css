@@ -63,3 +63,17 @@ button{
     height: 73px;
     width: 73px;
 }
+
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: #ffffff;
+	color: rgb(41, 41, 41);
+	text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
