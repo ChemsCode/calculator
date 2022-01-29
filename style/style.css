@@ -32,6 +32,11 @@ button{
     border-radius: 5px;
 }
 
+#Display-bot, #Display-top {
+    height: 45px;
+    width: 350px;
+}
+
 #top{
     display: flex;
     flex-wrap: wrap;
